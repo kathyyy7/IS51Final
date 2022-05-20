@@ -38,7 +38,4 @@ close file
 create dict off of the list 
 
 
-
-
-
 """""
